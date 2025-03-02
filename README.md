@@ -2,7 +2,7 @@
 ### Hi 👋, I'm Arvind Lodhi  
 #### A passionate Frontend Developer from India   
 
-![Banner](https://your-banner-image-url.com)  
+![Banner](https://github.com/Arvindlodhi2001/Arvindlodhi2001-/blob/main/DALL%C2%B7E%202025-02-20%2019.56.10%20-%20A%20futuristic%20workspace%20with%20a%20coding%20setup%20featuring%20multiple%20monitors%20displaying%20programming%20code.%20The%20workspace%20includes%20a%20wooden%20desk%20with%20a%20laptop.jpg)  
 
 <img align="right" alt="coding" width="400px" src="https://media.licdn.com/dms/image/v2/D5622AQECf15AQb5TuQ/feedshare-shrink_800/feedshare-shrink_800/0/1731130253222?e=2147483647&v=beta&t=x-veGJBmgHF4qVOl9WjQRPbZDON4vG7EHAZWYylEXMc" />  
 
